@@ -1,6 +1,6 @@
-![Hùng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hung412&show_icons=true&theme=radical)
+<!--![Hùng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hung412&show_icons=true&theme=radical)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung412&layout=compact&theme=vision-friendly-dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung412&layout=compact&theme=vision-friendly-dark)-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hung412&theme=tokyonight)
 
